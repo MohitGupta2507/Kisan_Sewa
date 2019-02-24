@@ -1,19 +1,19 @@
-**Kisan Sewa
+# **Kisan Sewa**
 
 
-Overview:-
+### **Overview:-**
 
 
 This is  a app for farmers, it is basically a E portal where farmers can upload their crops and from there every buyer present on app can view the crop and  bid on it if Intrested. Then farmer could see the bid and contact user. 
 
 
-Concepts :- 
+### **Concepts :-**
 
 
 Android SDK  , RecyclerView , Firebase RealTime Database , Firebase Authentication ,  Implicit Intend Service,Firebase Cloud Storage , Bottom Navigation Bar
 
 
-Description:-
+### **Description:-**
 
 
 The App Consist  of Various activities and fragments Explained Below
