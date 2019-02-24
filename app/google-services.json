@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "321155458226",
+    "firebase_url": "https://kisan-200a0.firebaseio.com",
+    "project_id": "kisan-200a0",
+    "storage_bucket": "kisan-200a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321155458226:android:2275ef54bac9b709",
+        "android_client_info": {
+          "package_name": "com.example.mohit.k2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321155458226-lfm0f8sirmaqpg6b7eal1m5hnv8fvelv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mohit.k2",
+            "certificate_hash": "5ccfe6d460d33a023687f87c1f5176f191fc95da"
+          }
+        },
+        {
+          "client_id": "321155458226-5ndr6jmesng39b1gjs3alfkpp3l1dsvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSLFWA7h8UtFRb2lKw2Ub05zgPdJ59zWo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321155458226-5ndr6jmesng39b1gjs3alfkpp3l1dsvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

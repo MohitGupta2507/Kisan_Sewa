@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mohit.k2">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Walkthrough">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainDashboard"
+            android:theme="@style/signup" />
+        <activity
+            android:name=".SignIn"
+            android:theme="@style/signup" />
+        <activity
+            android:name=".LoginActivity"
+            android:theme="@style/signup" />
+        <activity
+            android:name=".FarmerProfile"
+            android:theme="@style/signup" />
+        <activity
+            android:name=".BuyerProfile"
+            android:theme="@style/signup" />
+        <activity
+            android:name=".Itemclicked"
+            android:theme="@style/signup" />
+        <activity
+            android:name=".MyPost"
+            android:theme="@style/signup" />
+        <activity android:name=".BidShow"
+            android:theme="@style/signup"></activity>
+    </application>
+
+</manifest>
